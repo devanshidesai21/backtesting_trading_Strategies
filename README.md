@@ -26,3 +26,7 @@
 2. Data quality and selection can skew results: Ensure data accuracy and representativeness.
 3. Overfitting risk: Avoid tailoring your strategy too closely to specific data to prevent misleading results.
 4. Psychological factors: Backtesting doesn't capture real-time emotions and decision-making.
+
+
+
+1. My SMA Strategy Graph - file:///Users/devanshidesai/MySMAStrategy.html
