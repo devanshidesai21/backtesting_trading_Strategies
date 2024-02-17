@@ -1,8 +1,6 @@
 # backtesting_trading_Strategies
 
-#  Backtesting is a technique used in finance and investment to evaluate the performance of a trading strategy or investment portfolio using historical data, it 
-   involves applying your trading rules to historical data to simulate how your strategy would have performed in the past. 
-
+#  Backtesting is a technique used in finance and investment to evaluate the performance of a trading strategy or investment portfolio using historical data.
 
 #  Steps of backtesting:
 
@@ -27,4 +25,4 @@
    the future.
 2. Data quality and selection can skew results: Ensure data accuracy and representativeness.
 3. Overfitting risk: Avoid tailoring your strategy too closely to specific data to prevent misleading results.
-4.  Psychological factors: Backtesting doesn't capture real-time emotions and decision-making.
+4. Psychological factors: Backtesting doesn't capture real-time emotions and decision-making.
