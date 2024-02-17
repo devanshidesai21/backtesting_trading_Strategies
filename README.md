@@ -14,9 +14,9 @@
 
 #  Benefits of backtesting:
 
-1  Reduces risk: You can test your strategy without risking real capital.
+1. Reduces risk: You can test your strategy without risking real capital. 
 2. Improves confidence: Seeing positive results can boost your confidence in your approach.
-3  Uncovers flaws: Backtesting can expose weaknesses and areas for improvement.
+3. Uncovers flaws: Backtesting can expose weaknesses and areas for improvement.
 4. Optimizes parameters: You can fine-tune your strategy based on data-driven insights.
 
 #  Limitations of backtesting:
